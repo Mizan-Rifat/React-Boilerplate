@@ -1,12 +1,11 @@
-import React from 'react';
+import React,{useState, useEffect} from 'react';
 
-function App() {
+export default function App() {
+
+
   return (
-    <div className="App">
-
+    <div>
       
     </div>
-  );
+  )
 }
-
-export default App;
